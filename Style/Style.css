@@ -47,3 +47,16 @@ color: #444
     font-weight: bold;
     text-decoration: none;
 }
+
+
+#DreamBig{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    align-items: right;
+    display: flex;
+    margin-top: 96px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
